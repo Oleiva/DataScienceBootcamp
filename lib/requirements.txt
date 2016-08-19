@@ -1,0 +1,6 @@
+ pandas == 0.18.1
+ numpy == 1.11.1
+ scikit ==  0.15.2
+ matplotlib == 1.5.1
+ seaborn == 0.7.1
+ jupyter == 4.2 
